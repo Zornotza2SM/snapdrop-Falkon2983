@@ -12,4 +12,9 @@ services:
       - 80:80
       - 443:443
     restart: unless-stopped
-  
+  excalidraw:
+    container_name: excalidraw
+    image: excalidraw/excalidraw:latest
+    ports:
+      - "3030:80"
+    restart: on-failure
