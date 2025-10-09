@@ -11,6 +11,9 @@ Por ejemplo, la dirección de este equipo es:
 `INF200615-8GELA.zornotzalh.eus`
 
 2. ¿Que puertos expone esta aplicacion? ¿Sabrías decirme para que protocolos e usan estos puertos?
+el 300. No sabria decirlo.
 3. ¿Cuantos contenedores incluye este proyecto?
+Solo 1
 4. ¿Has notado cambios en la carpeta de tu proyecto al desplegar la aplicación? Indica cuales.
+Si. A aparecido una carpeta llamada .config que no estaba antes.
 5. Cuando termines de responde a todas las preguntas. Haz commit de los cambios realizados con el mensaje.
