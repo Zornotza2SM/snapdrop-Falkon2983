@@ -54,6 +54,7 @@ services:
       - portainer_data:/data
 
 volumes:
-  code_config:
+  code_config: 
+  portainer_data:
 
   
